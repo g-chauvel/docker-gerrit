@@ -1,4 +1,5 @@
-# UUID                                  	Group Name
+# UUID                                                        	Group Name
 #
-67e69a4d7a872c7552d67e99b5e63111d0fafc49	docker-gerrit
-global:Registered-Users                 	Registered Users
+67e69a4d7a872c7552d67e99b5e63111d0fafc49                      	docker-gerrit
+global:Registered-Users                                       	Registered Users
+google:AI2Pq9rwJtXWrKQ9Q62CcHSid7ngIF2hCfJ4bSpVquX_P2z5kFM6v9s	google/gerritcodereview-maintainers@googlegroups.com
